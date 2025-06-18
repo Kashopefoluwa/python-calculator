@@ -9,3 +9,4 @@ result = int(num_one) + int(num_two)
 
 answer = f"The addition of {num_one} and {num_two} is {result}"
 print(answer)
+print ("Thank you for using our calculator app")

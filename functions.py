@@ -27,4 +27,8 @@ user_name = input("Enter your name: ")
 uppercased_name = upper_name(user_name)
 greeting(uppercased_name)
 
-(addition(100, 54))
+def lower_name(name):
+    return name.lower()
+
+def length_of_name(name):
+    return len(name)
